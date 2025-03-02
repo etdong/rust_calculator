@@ -1,1 +1,10 @@
-Calculator writte in Rust using Yew
+# Simple Calculator 
+Written in Rust using Yew
+
+## Usage
+
+Clone this repository:
+
+```
+git clone 
+```
