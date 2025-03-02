@@ -1,0 +1,9 @@
+[package]
+name = "rust_calculator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies] 
+yew = { version = "0.21", features = ["csr"] } 
+meval = "0.2"
+stylist = { version = "0.13.0", features = ["yew"] }
