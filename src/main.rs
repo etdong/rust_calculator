@@ -65,7 +65,7 @@ fn app() -> Html {
             let temp = (*expr).to_owned();
             let val = event.key();
             if temp.contains("ERROR") {
-                expr.set(val);
+                expr.set("".to_owned());
             } else {
                 let mut result = (*expr).to_owned();
                 match val.as_str() {
