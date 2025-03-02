@@ -1,4 +1,4 @@
-# Simple Calculator 
+# Simple Web Calculator 
 Written in Rust using Yew
 
 ## Usage
